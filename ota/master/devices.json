@@ -1,0 +1,8 @@
+{
+    "lge/bullhead": "lge/bullhead",
+    "google/bullhead": "lge/bullhead",
+    "samsung/hlte": "samsung/hlte",
+	"samsung/hlteskt": "samsung/hlte",
+	"samsung/hltektt": "samsung/hlte",
+	"samsung/hltelgt": "samsung/hlte"
+}
